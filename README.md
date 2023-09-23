@@ -3,6 +3,7 @@
 ```
 a simple bof to impersonate a logged on user session without OpenProcess (only works as SYSTEM iirc). all credit goes to 
 https://github.com/OmriBaso/WTSImpersonator
+and some to CS token vault and SA bofs.
 COFFLoader and NiCOFF used for testing.
 ```
 ```
